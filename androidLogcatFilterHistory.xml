@@ -2,6 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:com.xqfunds.msp.test" />
+        <option value="package " />
         <option value="package:mine" />
       </list>
     </option>

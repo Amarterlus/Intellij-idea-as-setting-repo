@@ -1,5 +1,10 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="GoogleLogin.LoginService" is_action="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Vcs.Push" is_action="true" action_type="-1" position="5">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -7,11 +12,29 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Android.SyncProject" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Android.NavBarToolBar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowProjectStructureSettings" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Android.NavBarToolBar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Android.SyncProject" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
       <path value="AndroidToolbarMakeGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android.SyncProject" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Vcs.Push" is_action="true" action_type="1" position="3">

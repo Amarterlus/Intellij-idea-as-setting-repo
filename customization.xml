@@ -18,6 +18,11 @@
       <path value="Android.NavBarToolBar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Synchronize" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ShowProjectStructureSettings" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />

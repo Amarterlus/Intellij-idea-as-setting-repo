@@ -22,6 +22,10 @@
           <option name="url" value="http://git.esbuilder.cn" />
           <option name="userName" value="jiangyulun@everelegance.com.cn" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.yorentown.com" />
+          <option name="userName" value="yulun.jiang" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Documents\Projects" />

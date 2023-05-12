@@ -1,0 +1,27 @@
+<application>
+  <component name="easyJavadoc">
+    <option name="accessKeyId" value="" />
+    <option name="accessKeySecret" value="" />
+    <option name="appId" value="" />
+    <option name="author" value="Jyl" />
+    <option name="googleKey" value="" />
+    <option name="kdocAuthor" value="Jyl" />
+    <option name="kdocSimpleFieldDoc" value="true" />
+    <option name="microsoftKey" value="" />
+    <option name="projectWordMap">
+      <map>
+        <entry key="wanandroid-compose">
+          <value>
+            <map />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="secretId" value="" />
+    <option name="secretKey" value="" />
+    <option name="simpleFieldDoc" value="true" />
+    <option name="token" value="" />
+    <option name="youdaoAppKey" value="" />
+    <option name="youdaoAppSecret" value="" />
+  </component>
+</application>

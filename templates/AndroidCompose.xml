@@ -1,0 +1,7 @@
+<templateSet group="AndroidCompose">
+  <template name="modd" value="modifier = Modifier&#10;" description="添加Modifier" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

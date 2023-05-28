@@ -1,0 +1,3 @@
+<keymap version="1" name="Jyl-keymap-win" parent="$default">
+  <action id="VcsHistory.ShowAllAffected" />
+</keymap>

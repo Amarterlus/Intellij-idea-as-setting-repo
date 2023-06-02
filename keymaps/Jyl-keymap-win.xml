@@ -1,4 +1,14 @@
 <keymap version="1" name="Jyl-keymap-win" parent="$default">
+  <action id="AddToFavoritesPopup" />
+  <action id="CIDR.Lang.IntroduceVariable">
+    <keyboard-shortcut first-keystroke="shift alt v" />
+  </action>
+  <action id="CIDR.Lang.ObjC.IntroduceIvar">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="shift alt v" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="VcsHistory.ShowAllAffected" />
   <action id="android.deploy.ApplyChanges">

@@ -1,0 +1,26 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1685801400079" />
+  </component>
+  <component name="Translation.GoogleSettings">
+    <option name="CUSTOM_SERVER" value="true" />
+    <option name="SERVER_URL" value="https://translate.google.com/" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="1029" />
+    <option name="newTranslationDialogY" value="412" />
+    <histories>
+      <item value="on Message Sent" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
+      </map>
+    </option>
+  </component>
+</application>

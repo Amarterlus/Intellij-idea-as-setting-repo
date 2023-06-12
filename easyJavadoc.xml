@@ -10,7 +10,8 @@
     <option name="microsoftKey" value="" />
     <option name="projectWordMap">
       <map>
-        <entry key="Jetchat">
+        <entry key="Jetchat" />
+        <entry key="NetCoroutine">
           <value>
             <map />
           </value>

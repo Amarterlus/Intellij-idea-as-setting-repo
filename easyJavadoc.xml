@@ -10,12 +10,13 @@
     <option name="microsoftKey" value="" />
     <option name="projectWordMap">
       <map>
-        <entry key="Jetchat" />
-        <entry key="NetCoroutine">
+        <entry key="ClashForAndroid">
           <value>
             <map />
           </value>
         </entry>
+        <entry key="Jetchat" />
+        <entry key="NetCoroutine" />
         <entry key="wanandroid-compose" />
       </map>
     </option>

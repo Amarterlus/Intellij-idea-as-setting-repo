@@ -6,6 +6,7 @@
   <action id="CIDR.Lang.ObjC.IntroduceIvar">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
+  <action id="IntroduceTypeAlias" />
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="shift alt v" />
   </action>

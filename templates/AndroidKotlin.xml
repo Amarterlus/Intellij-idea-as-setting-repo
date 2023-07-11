@@ -1,0 +1,9 @@
+<templateSet group="AndroidKotlin">
+  <template name="mtsf" value="private val _$state$ = MutableStateFlow($value$)&#10;val $state$ = _$state$.asStateFlow()" toReformat="false" toShortenFQNames="true">
+    <variable name="state" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
